@@ -1,0 +1,25 @@
+{
+  "name": "products-test",
+  "version": "1.0.0",
+  "description": "- Calculate the total price of all products where the keys *ARE NOT* blank, empty, undefined, NaN, etc.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-madhukar/products-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-madhukar/products-test/issues"
+  },
+  "homepage": "https://github.com/a-madhukar/products-test#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "mocha": "^6.2.2"
+  }
+}
